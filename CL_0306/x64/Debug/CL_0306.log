@@ -1,2 +1,3 @@
 ﻿  main.cpp
+C:\Work\CL_0306\main.cpp(11,6): warning C4101: 'Player': unreferenced local variable
   CL_0306.vcxproj -> C:\Work\CL_0306\x64\Debug\CL_0306.exe
